@@ -36,28 +36,20 @@
 
 
 ## Sobre o Projeto
-<div align="center">
-<img src="https://i.imgur.com/NrA53DG.png" alt="Imagem do projeto aberto em um navegador.">
-</div>
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+<img src="https://i.imgur.com/NrA53DG.png" alt="Imagem do projeto aberto em um navegador."  width="800" height="800" style="text-align: center">
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
 
 
 ### O que foi utilizado
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* <strong>HTML5</strong>
+* <strong>CSS</strong>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
 
 
@@ -65,7 +57,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
 
 
@@ -75,7 +67,7 @@ Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
 
 
@@ -85,7 +77,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 * []()
 * []()
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
 
 
