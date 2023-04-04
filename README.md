@@ -13,7 +13,7 @@
 <h3 align="center">Flutuar</h3>
 
   <p align="center">
-    Projeto desenvolvido durante o programa de formação <a href="https://www.rocketseat.com.br/explorer">Explorer</a> da <a href="https://www.rocketseat.com.br/">Rocketseat</a>
+    Projeto desenvolvido durante o programa de formação <a href="https://www.rocketseat.com.br/explorer">Explorer</a> da <a href="https://www.rocketseat.com.br/">Rocketseat</a>.
   </p>
 </div>
 
@@ -39,6 +39,13 @@
 
 <img src="https://i.imgur.com/NrA53DG.png" alt="Imagem do projeto aberto em um navegador."  width="800" height="800" style="text-align: center">
 
+<p align="right">
+    Projeto desenvolvido durante o programa de formação <a href="https://www.rocketseat.com.br/explorer">Explorer</a> da <a href="https://www.rocketseat.com.br/">Rocketseat</a>. O Explorer é um programa completo que reúne tudo o que você precisa para desenvolver suas habilidades técnicas e comportamentais, com acompanhamento de uma equipe qualificada da Rocketseat, que é uma escola de programação líder e a maior comunidade de desenvolvedores da América Latina.
+
+    Este projeto foi desenvolvido para explorar melhor o aprendizado do <strong>Nível 02</strong>, o conteúdo de tal nível inclui HTML e CSS, aprendendo as melhores formas de se utilizar ambas as ferramentas.
+
+    A empresa Flutuar e qualquer logo ou conteúdo relacionada a mesma é fictício, inventado com o intuíto de utilizar desta para a prática de construção de uma aplicação web. Qualquer semelhança a algo real é coincidência.
+</p>
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
