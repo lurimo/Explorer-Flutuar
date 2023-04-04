@@ -7,7 +7,7 @@
 <br />
 <div align="center">
   <a href="[https://github.com/lurimo/Explorer-Flutuar](https://www.rocketseat.com.br/explorer)">
-    <img src="https://blog.rocketseat.com.br/content/images/2020/08/favicon-512.png" alt="Logo" width="250" height="250">
+    <img src="https://blog.rocketseat.com.br/content/images/2020/08/favicon-512.png" alt="Logo da Rocketseat" width="250" height="250">
   </a>
 
 <h3 align="center">Flutuar</h3>
@@ -37,7 +37,7 @@
 
 ## Sobre o Projeto
 
-<img src="https://imgur.com/NrA53DG" alt="Imagem do projeto aberto em um navegador.">
+<img src="https://i.imgur.com/NrA53DG.png" alt="Imagem do projeto aberto em um navegador."  width="800" height="800">
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
