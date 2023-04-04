@@ -7,7 +7,7 @@
 <br />
 <div align="center">
   <a href="[https://github.com/lurimo/Explorer-Flutuar](https://www.rocketseat.com.br/explorer)">
-    <img src="https://blog.rocketseat.com.br/content/images/2020/08/favicon-512.png" alt="Logo" width="150" height="150">
+    <img src="https://blog.rocketseat.com.br/content/images/2020/08/favicon-512.png" alt="Logo" width="350" height="350">
   </a>
 
 <h3 align="center">Flutuar</h3>
