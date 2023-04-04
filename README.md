@@ -37,7 +37,9 @@
 
 ## Sobre o Projeto
 
-<img src="https://i.imgur.com/NrA53DG.png" alt="Imagem do projeto aberto em um navegador."  width="800" height="800" style="text-align: center">
+<div align="center">
+<img src="https://i.imgur.com/NrA53DG.png" alt="Imagem do projeto aberto em um navegador."  width="800" height="800">
+</div>
 
 <p align="right">
     Projeto desenvolvido durante o programa de formação <a href="https://www.rocketseat.com.br/explorer">Explorer</a> da <a href="https://www.rocketseat.com.br/">Rocketseat</a>. O Explorer é um programa completo que reúne tudo o que você precisa para desenvolver suas habilidades técnicas e comportamentais, com acompanhamento de uma equipe qualificada da Rocketseat, que é uma escola de programação líder e a maior comunidade de desenvolvedores da América Latina.
