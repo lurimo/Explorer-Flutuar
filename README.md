@@ -6,23 +6,14 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/lurimo/Explorer-Flutuar">
-    <img src="https://blog.rocketseat.com.br/content/images/2020/08/favicon-512.png" alt="Logo" width="80" height="80">
+  <a href="[https://github.com/lurimo/Explorer-Flutuar](https://www.rocketseat.com.br/explorer)">
+    <img src="https://blog.rocketseat.com.br/content/images/2020/08/favicon-512.png" alt="Logo" width="150" height="150">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Flutuar</h3>
 
   <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    Projeto criado
   </p>
 </div>
 
