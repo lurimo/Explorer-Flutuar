@@ -7,7 +7,7 @@
 <br />
 <div align="center">
   <a href="[https://github.com/lurimo/Explorer-Flutuar](https://www.rocketseat.com.br/explorer)">
-    <img src="https://blog.rocketseat.com.br/content/images/2020/08/favicon-512.png" alt="Logo da Rocketseat" width="250" height="250">
+    <img src="https://blog.rocketseat.com.br/content/images/2020/08/favicon-512.png" alt="Logo da Rocketseat" width="300" height="300">
   </a>
 
 <h3 align="center">Flutuar</h3>
@@ -41,11 +41,13 @@
 <img src="https://i.imgur.com/NrA53DG.png" alt="Imagem do projeto aberto em um navegador."  width="800" height="800">
 </div>
 
-<p align="right">
+<p align="left">
     Projeto desenvolvido durante o programa de formação <a href="https://www.rocketseat.com.br/explorer">Explorer</a> da <a href="https://www.rocketseat.com.br/">Rocketseat</a>. O Explorer é um programa completo que reúne tudo o que você precisa para desenvolver suas habilidades técnicas e comportamentais, com acompanhamento de uma equipe qualificada da Rocketseat, que é uma escola de programação líder e a maior comunidade de desenvolvedores da América Latina.
-
+</p>
+<p align="left">
     Este projeto foi desenvolvido para explorar melhor o aprendizado do <strong>Nível 02</strong>, o conteúdo de tal nível inclui HTML e CSS, aprendendo as melhores formas de se utilizar ambas as ferramentas.
-
+</p>
+<p align="left">
     A empresa Flutuar e qualquer logo ou conteúdo relacionada a mesma é fictício, inventado com o intuíto de utilizar desta para a prática de construção de uma aplicação web. Qualquer semelhança a algo real é coincidência.
 </p>
 
