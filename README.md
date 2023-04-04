@@ -37,7 +37,7 @@
 
 ## Sobre o Projeto
 <div align="center">
-<img src="https://i.imgur.com/NrA53DG.png" alt="Imagem do projeto aberto em um navegador."  width="800" height="800">
+<img src="https://i.imgur.com/NrA53DG.png" alt="Imagem do projeto aberto em um navegador.">
 </div>
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
