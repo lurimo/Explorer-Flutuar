@@ -39,7 +39,7 @@
 <br>
 
 <p align="left">
-    Projeto desenvolvido durante o programa de formação <a href="https://www.rocketseat.com.br/explorer">Explorer</a> da <a href="https://www.rocketseat.com.br/">Rocketseat</a>. O Explorer é um programa completo que reúne tudo o que você precisa para desenvolver suas habilidades técnicas e comportamentais, com acompanhamento de uma equipe qualificada da Rocketseat, que é uma escola de programação líder e a maior comunidade de desenvolvedores da América Latina.
+    Projeto desenvolvido durante o programa de formação <a href="https://www.rocketseat.com.br/explorer">Explorer</a> da <a href="https://www.rocketseat.com.br/">Rocketseat</a>. O Explorer é um programa completo de formação de <a href="https://querobolsa.com.br/cursos-e-faculdades/engenharia-de-software">Engenharia de Software</a> que reúne tudo o que você precisa para desenvolver suas habilidades técnicas e comportamentais, com acompanhamento de uma equipe qualificada da Rocketseat, que é uma escola de programação líder e a maior comunidade de desenvolvedores da América Latina.
 </p>
 <p align="left">
     Este projeto foi desenvolvido para explorar melhor o aprendizado do <strong>Nível 02</strong>, o conteúdo de tal nível inclui HTML e CSS, aprendendo as melhores formas de se utilizar ambas as ferramentas.
