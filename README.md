@@ -33,7 +33,7 @@
 ## Sobre o Projeto
 
 <div align="center">
-<img src="https://i.imgur.com/NrA53DG.png" alt="Imagem do projeto aberto em um navegador."  width="800" height="800">
+<img src="https://i.imgur.com/NrA53DG.png" alt="Imagem do projeto aberto em um navegador.">
 </div>
 
 <br>
@@ -56,6 +56,7 @@
 
 ### O que foi utilizado
 
+* [Figma](https://www.figma.com/)
 * [HTML5](https://en.wikipedia.org/wiki/HTML)
 * [CSS](https://en.wikipedia.org/wiki/CSS)
 
