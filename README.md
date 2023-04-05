@@ -1,5 +1,9 @@
 <a name="readme-top"></a>
 
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
 <br />
 <div align="center">
   <a href="[https://github.com/lurimo/Explorer-Flutuar](https://www.rocketseat.com.br/explorer)">
@@ -56,8 +60,8 @@
 
 ### O que foi utilizado
 
-* [HTML5]
-* [CSS]
+* [HTML5](https://en.wikipedia.org/wiki/HTML)
+* [CSS](https://en.wikipedia.org/wiki/CSS)
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
@@ -67,8 +71,8 @@
 
 Murilo Ferrinho - muriferrinho@gmail.com - @muri.ferrigno
 
-Github: [https://github.com/lurimo/](https://github.com/lurimo/)
-Linkedin: [https://www.linkedin.com/in/muriferrinho/](https://www.linkedin.com/in/muriferrinho/)
+* Github: [https://github.com/lurimo/](https://github.com/lurimo/)
+* Linkedin: [https://www.linkedin.com/in/muriferrinho/](https://www.linkedin.com/in/muriferrinho/)
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
