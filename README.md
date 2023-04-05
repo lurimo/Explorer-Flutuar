@@ -65,10 +65,12 @@
 
 ## Contato
 
-Murilo Ferrinho - muriferrinho@gmail.com - @muri.ferrigno
+Murilo Ferrinho
 
+* E-mail: muriferrinho@gmail.com
 * Github: [https://github.com/lurimo/](https://github.com/lurimo/)
 * Linkedin: [https://www.linkedin.com/in/muriferrinho/](https://www.linkedin.com/in/muriferrinho/)
+* Website: soon
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
