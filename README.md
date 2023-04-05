@@ -1,9 +1,5 @@
 <a name="readme-top"></a>
 
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 <br />
 <div align="center">
   <a href="[https://github.com/lurimo/Explorer-Flutuar](https://www.rocketseat.com.br/explorer)">
@@ -27,7 +23,6 @@
         <li><a href="#o-que-foi-utilizado">O que foi utilizado</a></li>
       </ul>
     </li>
-    <li><a href="#licença">Licença</a></li>
     <li><a href="#contato">Contato</a></li>
     <li><a href="#agradecimentos">Agradecimentos</a></li>
   </ol>
@@ -53,22 +48,16 @@
     A empresa Flutuar e qualquer logo ou conteúdo relacionada a mesma é fictício, inventado com o intuíto de utilizar desta para a prática de construção de uma aplicação web. Qualquer semelhança a algo real é coincidência.
 </p>
 
+<br>
+
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
 
 
 ### O que foi utilizado
 
-* <strong>HTML5</strong>
-* <strong>CSS</strong>
-
-<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
-
-
-
-## Licença
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+* [HTML5]
+* [CSS]
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
@@ -76,9 +65,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contato
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Murilo Ferrinho - muriferrinho@gmail.com - @muri.ferrigno
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Github: [https://github.com/lurimo/](https://github.com/lurimo/)
+Linkedin: [https://www.linkedin.com/in/muriferrinho/](https://www.linkedin.com/in/muriferrinho/)
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
@@ -86,13 +76,9 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 ## Agradecimentos
 
-* []()
-* []()
-* []()
+* [Mayk Brito](https://twitter.com/maykbrito) - Instrutor
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
-
-
 
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
